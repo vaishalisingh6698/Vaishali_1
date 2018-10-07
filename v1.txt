@@ -4,3 +4,5 @@ Shopping list
 3.Mango
 4.Tomatoes
 5.Chillies
+6.Lays
+7.Uncle Chips
